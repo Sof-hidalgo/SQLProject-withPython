@@ -78,7 +78,7 @@ Para estos dos datasets ahora necesitas:
 
 - **Paso 5. Prueba de hipótesis (Python)**
 
-  - `project_sql_result_07.csv': el resultado de la última consulta. Contiene datos sobre viajes desde el Loop hasta el Aeropuerto Internacional O'Hare. Recuerda, estos son los valores de campo de la tabla:
+  - `project_sql_result_07.csv`: el resultado de la última consulta. Contiene datos sobre viajes desde el Loop hasta el Aeropuerto Internacional O'Hare. Recuerda, estos son los valores de campo de la tabla:
 
     - start_ts: fecha y hora de recogida
     - weather_conditions: condiciones climáticas en el momento en el que comenzó el viaje
