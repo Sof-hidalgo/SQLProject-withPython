@@ -2,7 +2,7 @@
 
 ## 📌 Análisis de Datos para Zuber: Impacto del Clima y Preferencias de los Pasajeros
 
-### 📖 Descripción del proyecto:
+### 📖 Descripción del proyecto:
 En este proyecto, Zuber, una nueva empresa de viajes compartidos en Chicago, busca analizar patrones en los datos de sus competidores para comprender mejor las preferencias de los pasajeros y el impacto de factores externos en los viajes. Se exploraron datos sobre compañías de taxis, frecuencia de viajes, destinos más populares y la influencia del clima en la duración de los recorridos.
 
 ### 🎯 Objetivo del proyecto:
